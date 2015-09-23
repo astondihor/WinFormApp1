@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WinFormApp1")]
+[assembly: AssemblyTitle("OnionModelSample.WinForms")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WinFormApp1")]
+[assembly: AssemblyProduct("OnionModelSample.WinForms")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("79596b21-d79c-4cb5-b4e1-a3478989379b")]
+[assembly: Guid("9c9253b6-67c0-4de3-ba3f-8c5b6f1097a7")]
 
 // Version information for an assembly consists of the following four values:
 //

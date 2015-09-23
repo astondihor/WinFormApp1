@@ -1,4 +1,4 @@
-﻿namespace WinFormApp1
+﻿namespace OnionModelSample.WinForms
 {
     partial class MainForm
     {

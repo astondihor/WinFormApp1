@@ -6,8 +6,9 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using OnionModelSample.Framework.Properties;
 
-namespace WinFormApp1
+namespace OnionModelSample.WinForms
 {
     public partial class MainForm : Form
     {

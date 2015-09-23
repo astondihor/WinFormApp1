@@ -7,11 +7,11 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace WinFormApp1
+namespace OnionModelSample.WinForms
 {
-    public partial class DialogJenaka : Form
+    public partial class Form1 : Form
     {
-        public DialogJenaka()
+        public Form1()
         {
             InitializeComponent();
         }

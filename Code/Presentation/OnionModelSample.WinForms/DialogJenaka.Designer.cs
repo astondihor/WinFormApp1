@@ -1,4 +1,4 @@
-﻿namespace WinFormApp1
+﻿namespace OnionModelSample.WinForms
 {
     partial class DialogJenaka
     {
@@ -80,7 +80,6 @@
             // pictureBox1
             // 
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox1.Image = global::WinFormApp1.Properties.Resources.Halloween_icon;
             this.pictureBox1.Location = new System.Drawing.Point(12, 12);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(58, 58);
